@@ -50,11 +50,6 @@ dependencies {
 }
 
 
-task wrapper(type: Wrapper) {
-    gradleVersion = '2.12'
-}
-
-
 uploadArchives {
     repositories.mavenDeployer {
         repository(url: "xxx") {
