@@ -47,6 +47,9 @@ dependencies {
 
     testCompile "org.spockframework:spock-core:1.1-groovy-2.4"
 
+    // https://mvnrepository.com/artifact/junit/junit
+    compile group: 'junit', name: 'junit', version: '4.12'
+    
 }
 
 
