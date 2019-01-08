@@ -1,7 +1,7 @@
 # Java-Programming-Examples
 
-* Repository maintained to document Java implementations of well-known problems routinely encountered
-in working with databases, data-structures, parallel and concurrency. 
+* I am maintaining this repository to document Java implementations of well-known problems routinely encountered
+in working with databases, data-structures, parallel and concurrency programming. 
 
 * I've also started adding unit tests using JUnit. Will be adding more of these as I work on more implementations.
 
