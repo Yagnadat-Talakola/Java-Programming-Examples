@@ -24,12 +24,12 @@ public class Subsets {
     public static void main(String[] args) {
 
         Subsets subsets = new Subsets();
-        List<Integer> input = Arrays.asList(1, 2, 3);
+        List<Integer> input = Arrays.asList(1, 2);
         List<List<Integer>> result = subsets.splitList(input);
         System.out.println(result);
     }
 
-    private List<List<Integer>> splitList (List<Integer> inputList) {
+    public List<List<Integer>> splitList (List<Integer> inputList) {
         List<List<Integer>> result = new ArrayList<>();
         result.add(new ArrayList<>());
 
