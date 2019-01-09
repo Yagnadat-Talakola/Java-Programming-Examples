@@ -3,8 +3,6 @@ package com.tgt.testapp.test;
 import com.tgt.testapp.dataoperations.Ackermann;
 import com.tgt.testapp.dataoperations.Subsets;
 import org.junit.Test;
-import scala.math.Integral;
-
 import java.util.Arrays;
 import java.util.List;
 
