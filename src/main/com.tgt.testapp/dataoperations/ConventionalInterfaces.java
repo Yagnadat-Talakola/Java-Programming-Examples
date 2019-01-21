@@ -30,7 +30,7 @@ public class ConventionalInterfaces {
      * @param predicate test to be applied to each element of the inputList.
      * @param inputList of integers
      * @return list of elements that pass the predicate.
-     *
+     * <p>
      * a recursive implementation.
      */
     public List<Integer> filterRecur(Predicate predicate, List<Integer> inputList) {
